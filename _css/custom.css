@@ -1,0 +1,9 @@
+.amp_form { font-size: 13px; }
+.amp_form table { padding-bottom:10px; }
+.amp_form table label { font-size: 13px; font-weight: bold; }
+.amp_form table input, .amp_form table textarea, .amp_form table select {
+  padding: 8px 8px;
+  margin: 0;
+  font-size: 13px;
+  border: 1px solid #d0d0d0;
+}
